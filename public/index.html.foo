@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<title>¡Tu sitio en nuestro servidor ya ha sido configurado!</title>
+    <meta http-equiv="PRAGMA" content="NO-CACHE" />
+    <meta http-equiv="CACHE-CONTROL" content="NO-CACHE,NO-STORE,MUST-REVALIDATE" />
+    <meta name="GOOGLEBOT" content="INDEX,FOLLOW" />
+    <meta name="ROBOTS" content="INDEX,FOLLOW,ALL,NO-ARCHIVE" />
+    <meta name="REVISIT" content="7 days" />
+    <meta name="NOW" content="2014-01-13 18:00" />
+    <meta name="REVIEW" content="2014-01-13" />
+    <meta name="REVISIT-AFTER" content="7 DAYS" />
+    <meta name="Language" content="Spanish">
+<link rel="shortcut icon" href="https://www.hostingssi.com/images/favicon.png" type="image/x-icon"/>
+<link href="http://8ssi.com/assets/css/styles.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+	<table width="100%" cellpadding="0" cellspacing="0" class="mainContainer">
+		<tr>
+			<td valign="middle" align="center" width="780px">
+				<div id="wrapper">
+					<div class="curveT">&nbsp;</div>
+					<div class="header">
+					<div class="leftDiv">
+						<a href="https://www.hostingssi.com/"><img hspace="10" height="40" border="0" align="left" width="206" alt="HostingSSi Logo" src="https://www.hostingssi.com/images/logo.png"/></a>	
+					</div>
+					<div class="rightDiv"><i style="font-size:19px; color:#666666;">¡Tu sitio web ha sido configurado satisfactoriamente!</i></div>
+					</div>
+					<div class="description">
+						<div class="welcome"><strong>¡Felicitaciones!</strong> Su cuenta de <a rel="dofollow"  href="https://www.hostingssi.com/">hosting</a> ha sido creada con éxito en el servidor! Su <a rel="dofollow"  href="https://www.hostingssi.com/dominios.shtml">dominio</a> se configuró correctamente y la propagación de DNS se ha completado. Ahora usted puede cargar el contenido de su sitio.
+						</div>
+						<p>Encuentre a continuación algunos enlaces de interés:</p>
+						<div class="links">
+							<ul>
+								<li><a rel="nofollow" href="/cpanel"><img src="http://8ssi.com/assets/images/cpanel.gif" border="0" align="middle" />Ingresar al cPanel</a></li>
+								<li><a rel="nofollow" href="/webmail"><img src="http://8ssi.com/assets/images/email.gif" border="0" align="middle" />Ingresar al Webmail</a></li>
+							</ul>
+							<ul>
+								<li><a rel="nofollow" href="https://www.hostingssi.com/ayuda/"><img src="http://8ssi.com/assets/images/messenger.gif" border="0" alt="Knowledgebase" align="middle" />Base de Conocimiento</a></li>
+								<li><a href="https://www.hostingssi.com/soporte.shtml"><img src="http://8ssi.com/assets/images/support.gif" border="0" align="middle" />Soporte</a></li>
+							</ul>
+							<div class="clear">&nbsp;</div>
+						</div>
+						<div class="seo-links">
+							<ul>
+							<li><a rel="dofollow" href="https://www.hostingssi.com/" title="hosting">hosting</a></li>
+							<li><a rel="dofollow" href="https://www.hostingssi.com/" title="hosting">hospedaje web</a></li>
+							<li><a rel="dofollow" href="https://www.hostingssi.com/" title="hosting venezuela">hosting venezuela</a></li>
+							<li><a rel="dofollow" href="https://www.hostingssi.com/vps.shtml" title="vps">vps</a></li>
+							<li><a rel="dofollow" href="https://www.hostingssi.com/vps.shtml" title="vps">vps venezuela</a></li>
+							<li style="border:none"><a rel="dofollow" href="https://www.hostingssi.com/certificado-ssl.shtml" title="certificado ssl">certificados ssl venezuela</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="curveB">&nbsp;</div>
+				</div>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

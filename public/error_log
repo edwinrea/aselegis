@@ -1,0 +1,10 @@
+[27-Aug-2014 21:56:28 UTC] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING) in /home/aselegis/app/storage/views/a085ba1440344468df9f97e349ddce55 on line 177
+[27-Aug-2014 21:56:37 UTC] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING) in /home/aselegis/app/storage/views/a085ba1440344468df9f97e349ddce55 on line 177
+[27-Aug-2014 21:57:14 UTC] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING) in /home/aselegis/app/storage/views/a085ba1440344468df9f97e349ddce55 on line 177
+[05-Nov-2014 17:02:14 America/Caracas] PHP Parse error:  syntax error, unexpected '[' in /home/aselegis/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 543
+[05-Nov-2014 17:02:24 America/Caracas] PHP Parse error:  syntax error, unexpected '[' in /home/aselegis/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 543
+[05-Nov-2014 17:02:52 America/Caracas] PHP Parse error:  syntax error, unexpected '[' in /home/aselegis/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 543
+[05-Nov-2014 17:07:56 America/Caracas] PHP Parse error:  syntax error, unexpected '[' in /home/aselegis/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 543
+[05-Nov-2014 17:20:02 America/Caracas] PHP Parse error:  syntax error, unexpected '[' in /home/aselegis/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 543
+[05-Nov-2014 18:06:37 America/Caracas] PHP Parse error:  syntax error, unexpected '[' in /home/aselegis/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 543
+[06-Nov-2014 07:38:00 America/Caracas] PHP Parse error:  syntax error, unexpected '[' in /home/aselegis/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 543
